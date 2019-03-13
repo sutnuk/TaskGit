@@ -1,2 +1,4 @@
 First line
 Second line from master
+Third line in branch
+
